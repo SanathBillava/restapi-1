@@ -1,4 +1,4 @@
 module.exports = {
   DB:
-    'mongodb+srv://pruthvi_dharani:Pruthvi143@ganesh-nlnmw.mongodb.net/dbrestapi?retryWrites=true&w=majority'
+    'mongodb+srv://sanath_08:ka02je4132@cluster0-jdboi.mongodb.net/dbrestapi?retryWrites=true&w=majority'
 };
